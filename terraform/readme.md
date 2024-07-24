@@ -47,4 +47,13 @@ Engineers are to build an infrastructure in AWS using Terraform and Ansible, fol
 + Proper usage of Jira for task management.
 + This assignment aims to help you gain hands-on experience with Terraform, Ansible, and AWS infrastructure management, along with project documentation and task management practices
 + Ansible configuration
+
+NOTE: You can be creative and add more resources using Terraform. 
+
+Submission Due Date :  August 7 , 2024 
+
+presentation: Wed August 7 
+Presentation : Friday, August 9 
+
+
   
