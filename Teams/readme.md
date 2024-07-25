@@ -24,7 +24,7 @@ These groups provide a platform for sharing knowledge, discussing complex topics
 | Member        | Foday                              | Canada      |
 | Assistant     | Maya                               | U.S.A       |
 | Member        | Nelly                              | Canada      |
-| Member        | Simon                              |             |
+| Member        | Simon                              | Canada      |
 
 
 
